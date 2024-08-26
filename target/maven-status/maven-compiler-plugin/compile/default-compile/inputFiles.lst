@@ -1,0 +1,11 @@
+D:\TestTask\src\main\java\ru\sender\service\EmailMessageService.java
+D:\TestTask\src\main\java\ru\sender\service\AsyncEmailMessageService.java
+D:\TestTask\src\main\java\ru\sender\utils\MessageStatus.java
+D:\TestTask\src\main\java\ru\sender\repository\MessageRepository.java
+D:\TestTask\src\main\java\ru\sender\service\LoggingMessageServiceDecorator.java
+D:\TestTask\src\main\java\ru\sender\model\Message.java
+D:\TestTask\src\main\java\ru\sender\controller\MessageController.java
+D:\TestTask\src\main\java\ru\sender\service\MessageServiceDecorator.java
+D:\TestTask\src\main\java\ru\sender\MessageServiceApplication.java
+D:\TestTask\src\main\java\ru\sender\service\MessageSender.java
+D:\TestTask\src\main\java\ru\sender\service\MessageStatusChecker.java
